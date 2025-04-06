@@ -22,5 +22,5 @@ print(result)
 ## Output:
 ![alt text](<Screenshot (140).png>)
 ## Result:
-Thus the inverse of given matrix is successfully solved using python program
+###### Thus the inverse of given matrix is successfully solved using python program
 
